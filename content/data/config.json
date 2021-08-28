@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "header": {
         "title": "Test Email",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Features",
